@@ -1179,8 +1179,13 @@ display: inline-block;
     font-size: 27px;
     color: #fff;
     position: relative;
-    left: 50px;
+    /* left: 50px; */
 
+}
+.overlay i.bx-cloud-download{
+  font-size: 32px !important;
+  color: #fff;
+  position: relative;
 }
 
 .isotope-pager .pager {
@@ -1301,8 +1306,9 @@ div.isotope-pager{
 }
 
 
-
-
+.overlay.video-cls {
+  background: transparent;
+}
 
 .overlay {
   position: absolute; 
