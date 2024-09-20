@@ -1247,7 +1247,34 @@ div.isotope-pager{
   display: block;
 }
 
+.blue-points ul {
+  list-style: none;
+  padding: 0;
+}
 
+.blue-points ul li {
+  padding: 10px 0px;
+}
+.blue-points i.icofont-rounded-right {
+  color: #149ddd;
+  font-size: 20px;
+  padding-right: 2px;
+}
+
+
+.exp-skills ul {
+  list-style: none;
+  padding: 0;
+}
+
+.exp-skills ul li {
+  padding: 10px 0px;
+}
+.exp-skills i.icofont-rounded-right {
+  color: #149ddd;
+  font-size: 20px;
+  padding-right: 2px;
+}
 
 .isotope-pager a{
     margin: 20px 5px 5px 5px;
